@@ -1,2 +1,3 @@
 # admin-columns-CPT
-add admin columns on CPT
+> add snippet code
+>> paste onto snippet code
